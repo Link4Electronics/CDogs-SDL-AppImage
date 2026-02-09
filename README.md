@@ -2,9 +2,9 @@
 
 # C-Dogs_SDL-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/CDogs-SDL--AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/CDogs-SDL--AppImage/releases/latest)
-[![CI Build Status](https://github.com//pkgforge-dev/CDogs-SDL--AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/CDogs-SDL--AppImage/releases/latest)
-[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CDogs-SDL--AppImage)](https://github.com/pkgforge-dev/CDogs-SDL--AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/CDogs-SDL-AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
+[![CI Build Status](https://github.com//pkgforge-dev/CDogs-SDL-AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
+[![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/CDogs-SDL-AppImage)](https://github.com/pkgforge-dev/CDogs-SDL-AppImage/releases/latest)
 
 <p align="center">
   <img src="https://github.com/cxong/cdogs-sdl/blob/master/build/linux/cdogs-icon.48.png" width="128" />
